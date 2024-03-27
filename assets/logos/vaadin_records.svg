@@ -1,0 +1,11 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="vaadin:records" clip-path="url(#clip0_2172_2211)">
+<path id="Vector" d="M7 15.75H14V19.25H7V15.75Z" fill="white"/>
+<path id="Vector_2" d="M28 3.5H26.25V0H8.75V3.5H5.25V5.6875L4.2 7H1.75V10.0625L0 12.25V28H21L28 19.25V3.5ZM3.5 8.75H17.5V12.25H3.5V8.75ZM19.25 26.25H1.75V14H19.25V26.25ZM21 12.25H19.25V7H7V5.25H21V12.25ZM24.5 7.875L22.75 10.0625V3.5H10.5V1.75H24.5V7.875Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_2172_2211">
+<rect width="28" height="28" fill="white"/>
+</clipPath>
+</defs>
+</svg>
